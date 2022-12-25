@@ -13,5 +13,7 @@ To config GIT -
 	rm -rf .git to remove git repository
 	$ git clone "public git url" to download in local system
 	$ touch error.log   linux to create files
-	touch .gitignore  to create git ignore files
-
+	touch .gitignore  to create git ignore files  add files name and directories names in this to be ignored by git
+	clear to clear window
+	$ git diff - to difference between working and staged files
+	
