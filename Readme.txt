@@ -16,4 +16,4 @@ To config GIT -
 	touch .gitignore  to create git ignore files  add files name and directories names in this to be ignored by git
 	clear to clear window
 	$ git diff - to difference between working and staged files
-	
+	$git commit -a -m "TO direct commit without staged only for modified files not untracked"
