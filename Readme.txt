@@ -10,3 +10,8 @@ To config GIT -
 	$ git commit -m "Intial Commit"   to send all files in commit 
 	$ git log   to check all commit log
 	$ git add first.txt   to stage particular file 
+	rm -rf .git to remove git repository
+	$ git clone "public git url" to download in local system
+	$ touch error.log   linux to create files
+	touch .gitignore  to create git ignore files
+
