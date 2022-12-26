@@ -17,3 +17,5 @@ To config GIT -
 	clear to clear window
 	$ git diff - to difference between working and staged files
 	$git commit -a -m "TO direct commit without staged only for modified files not untracked"
+	$git rm third.txt -- to remove any file
+	$git mv third.txt third_renamed.txt -- to rename any file
